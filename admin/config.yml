@@ -1,0 +1,6 @@
+backend:
+  name: github
+  repo: Prashantbag/netlifycms
+
+
+media_folder: "/memo"
